@@ -11,7 +11,7 @@ A fully interactive and visually appealing **Rubik's Cube Game** built using **H
 - Built with **pure HTML, CSS, and JavaScript** (no libraries required)  
 
 ## 📌 Live Demo  
-[🔗 Click Here to Play](#) *(Add your GitHub Pages or hosted link here)*  
+[🔗 Click Here to Play](https://parthasarathy27.github.io/Games-Rubik-s-Cube/) *(Add your GitHub Pages or hosted link here)*  
 
 ## 🛠️ Technologies Used  
 
