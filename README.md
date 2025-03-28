@@ -29,10 +29,17 @@ A fully interactive and visually appealing **Rubik's Cube Game** built using **H
 3. Start playing!  
 
 ## 📸 Screenshots  
-(Add images or GIFs of your game here)  
+
+### 🏁 Entry Page  
+![Enter Page](https://github.com/parthasarathy27/Games-Rubik-s-Cube/blob/main/assets/Enter_page.jpg?raw=true)  
+
+### 🎮 Game Page  
+![Game Page](https://github.com/parthasarathy27/Games-Rubik-s-Cube/blob/main/assets/Game_page.jpg?raw=true)  
 
 ## 📌 To-Do (Future Enhancements)  
 
 - Implement a **timer** and **move counter**  
 - Add difficulty levels  
 - Introduce a **shuffle button**  
+
+---
